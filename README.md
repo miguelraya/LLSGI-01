@@ -9,7 +9,7 @@ C. Utilitzem Rawgit per provar el fitxer HTML pujat. Feim els següents passos:
 * Obrim l'arxiu des del repositori.
 * Copiem l'adreça.
 * Afegim l'adreça copiada a https://rawgit.com
-* Obrim l'enllaç i comprovem com es pot obrir l'arxiu HTML del nostre repositori públic a la meva [pàgina](http://rawgit.com/miguelraya/Curs-LMSGI/master/prova_miguel.html).
+* Obrim l'enllaç i comprovem com es pot obrir l'arxiu HTML del nostre repositori públic a la meva [pàgina](http://rawgit.com/miguelraya/LLSGI-01/master/prova_miguel.html).
 
 D. Feim un tutorial de Markdown, en el que aprenem a crear text pla amb marques que ens permetrà crear HTML. Faig marques en aquest arxiu markdown per posar en pràctica els títols, enllaços, llistes, cursiva, negreta i fites.
 
